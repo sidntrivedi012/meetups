@@ -21,3 +21,10 @@ Group                     | Domain          | First Appearance
 ShinRa                    | Mako Reactors   | FFVII
 Moogles                   | MogNet          | FFIII
 Vana'diel Chocobo Society | Chocobo Raising | FFXI:TOAU
+
+{| class="wikitable" style="width: 85%;"
+| colspan="2" | This column width is 85% of the screen width (and has a background color)
+|-
+| style="width: 30%"| '''This column is 30% counted from 85% of the screen width'''
+| style="width: 70%"| '''This column is 70% counted from 85% of the screen width (and has a background color)'''
+|}
