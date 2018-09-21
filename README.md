@@ -8,10 +8,10 @@ Organizational repository for the meetups initiave in OSDC
 
 ## Linux Meetup 0
 
-S.No.| Date        | Meetup Agenda                        | Details  
----- | ----------- | ------------------------------------ | --------
-  1  | 30-Aug-2018 | [Wanna Play Linux](./linux-meetup-0) | Linux Introductory talk given by [crapsystem](https://github.com/crapsystem) (Himanshu Nailwal). 
-  2  | 14-Sep-2018 | How to Open-Source                   | Making the community acknowledge the know hows of Open-Source Development. 
+No.| Date        | Meetup Agenda                        | Details  
+---| ----------- | ------------------------------------ | --------
+  1| 30-Aug-2018 | [Wanna Play Linux](./linux-meetup-0) | Linux Introductory talk given by [crapsystem](https://github.co/crapsystem) (Himanshu Nailwal). 
+  2| 14-Sep-2018 | How to Open-Source                   | Making the community acknowledge the know hows of Open-Source Development. 
 
 
 
